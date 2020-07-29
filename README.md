@@ -48,7 +48,7 @@ A new `StockListDemo.bar` file will be created and deployed on the simulator. No
 
 ## See Also
 
-*   [Lightstreamer Flex Client API Reference](http://www.lightstreamer.com/docs/client_flex_api/index.html)
+*   [Lightstreamer Flex Client API Reference](https://lightstreamer.com/api/ls-flex-client/latest/index.html)
 
 ### Lightstreamer Adapters Needed by This Demo Client
 <!-- START RELATED_ENTRIES -->
