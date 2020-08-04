@@ -24,7 +24,7 @@ Namely:
 
 Keep track of the location of the BlackBerry 10 SDK for Adobe AIR as it will be needed soon.
 
-Download the [Lightstreamer distribution](http://www.lightstreamer.com/download) and copy the `Lightstreamer_as_client.swc` file from the Lightstreamer Flex Client SDK (that is located under the `DOCS-SDKs/sdk_client_flex/lib` folder) into the `lib` folder of this project.
+Download the latest `Lightstreamer_as_client.swc` library file from the [Lightstreamer Flex Client SDK resources](https://lightstreamer.com/res/ls-flex-client/latest/usage.html) into the `lib` folder of the project.
 
 Being $BB the folder where your BlackBerry 10 SDK for Adobe AIR was installed, run
 
